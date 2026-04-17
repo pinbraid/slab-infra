@@ -1,3 +1,10 @@
 *.tfvars
 *.tfstate*
 .terraform/
+*.tfvars.json
+crash.log
+crash.*.log
+override.tf
+*_override.tf
+.env
+*.env
